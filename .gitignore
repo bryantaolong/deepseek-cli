@@ -1,6 +1,8 @@
-.venv
-deepseek.egg-info/
 build/
+deepseek.egg-info/
+
+### venv ###
+.venv
 
 ### IntelliJ IDEA ###
 .idea
