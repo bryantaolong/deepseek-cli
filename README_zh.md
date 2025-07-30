@@ -1,4 +1,3 @@
-
 # 🧠 DeepSeek CLI
 
 *[English README here (英文版说明)](./README.md)*
@@ -24,3 +23,8 @@
 ```bash
 pip install -
 ```
+
+## License
+
+本项目采用 MIT 协议。
+详见 [LICENSE](LICENSE) 。
