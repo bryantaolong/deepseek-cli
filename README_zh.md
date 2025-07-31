@@ -21,7 +21,7 @@
 确保你已安装 Python 3.8+ 和 pip，然后在项目根目录执行：
 
 ```bash
-pip install -
+pip install -e .
 ```
 
 ## License
